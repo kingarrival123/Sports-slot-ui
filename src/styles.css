@@ -1,1 +1,15 @@
-/* You can add global styles to this file, and also import other style files */
+
+body{
+  display:relative;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  justify-content: center;
+  float:top;
+  align-items: center;
+  text-align: center;
+  height: 100vh;
+  /* font-size: 20px; */
+  color: white;
+  background-image: linear-gradient(to right top, #1d3705, #004c2f, #005f7c, #006acf, #005af1, #4c44d5, #622ab9, #6c009c, #630065, #4b003a, #2c081b, #000000);
+}
